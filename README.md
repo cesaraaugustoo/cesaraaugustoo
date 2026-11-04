@@ -82,4 +82,4 @@ Planejei e ministrei aulas de programação e robótica para crianças e adolesc
 
 ## 📫 Contato
 
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/cesaraugusto1602) [<img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" />](mailto:cesar.augusto1618m@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/cesaraugusto1602) [<img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" />](mailto:cesar.augusto1618m@gmail.com) [<img src="whatsapp.svg" alt="WhatsApp" />](https://wa.me/5531994341781)
