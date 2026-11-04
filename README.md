@@ -26,7 +26,9 @@ Na **American Bulls**, hamburgueria com duas lojas e um centro de distribuição
 
 ---
 
-## 🏢 Experiência Anterior: Única Promotora
+## 🏢 Experiências Anteriores
+
+### 💳 Única Promotora · Desenvolvimento de Sistemas e Automação
 
 Na **Única Promotora**, empresa de crédito e correspondência bancária, desenvolvi sistemas internos e automações para a operação. Os projetos dessa fase estão no perfil **[@DevCesarUnica](https://github.com/DevCesarUnica)**.
 
@@ -36,13 +38,21 @@ Na **Única Promotora**, empresa de crédito e correspondência bancária, desen
 - 📄 **[RPA de contratos no D4Sign](https://github.com/cesaraaugustoo/RPAcontrato):** mais de **4.000 contratos** baixados automaticamente, antes feitos à mão. E o [RPA de cadastro de usuários no Storm](https://github.com/cesaraaugustoo/Automa-o-adicionar-usu-rio-Python-Pandas-Selenium-), com **Selenium** e **Pandas**, que tirou da equipe de processos uma tarefa diária.
 - 🌐 **Landing pages de captação de leads** para a [MDV Soluções](https://github.com/DevCesarUnica/egv-mdv-landing) e a [Realiza Empréstimos](https://github.com/DevCesarUnica/realiza-emprestimos-lp), em **React**, **Vite**, **Tailwind CSS** e **Framer Motion**.
 
+### 🖨️ Impress · Técnico de Suporte
+
+Suporte remoto a clientes por **AnyDesk** e WhatsApp, para manter impressoras e sistemas funcionando: monitoramento das impressoras em tempo real pelo **PrintWayy**, instalação e configuração de impressoras e scanners, correção de drivers, manutenção de computadores e abertura de ordens de serviço para atendimento presencial no ERP **AgoraOS**, acompanhando cada solicitação até a resolução.
+
+### 🎮 Ctrl+Play · Instrutor de Programação e Robótica (estágio)
+
+Planejei e ministrei aulas de programação e robótica para crianças e adolescentes de até 17 anos, com **C#**, **Python**, **JavaScript**, **React**, **HTML/CSS**, **Construct 3** e **Godot**, e projetos de robótica com **Arduino** e **Micro:bit**. Conduzia as aulas experimentais de novos alunos e cuidava da manutenção dos computadores da escola, no software e no hardware.
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Desenvolvimento (Front-end, Mobile & Back-end)
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,vite,tailwind,nodejs,express,fastapi" alt="Python, TypeScript, JavaScript, React, Vite, Tailwind CSS, Node.js, Express e FastAPI" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cs,react,vite,tailwind,html,css,nodejs,express,fastapi" alt="Python, TypeScript, JavaScript, C#, React, Vite, Tailwind CSS, HTML, CSS, Node.js, Express e FastAPI" />
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
