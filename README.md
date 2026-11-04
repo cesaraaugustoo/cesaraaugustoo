@@ -72,7 +72,4 @@ Na **Única Promotora**, empresa de crédito e correspondência bancária, desen
 
 ## 📫 Contato
 
-<!-- LinkedIn: troque SEU-USUARIO pelo seu usuário, apague esta linha e a linha com a seta de fim de comentário
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/SEU-USUARIO)
--->
-[<img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" />](mailto:cesar.augusto1618m@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/cesaraugusto1602) [<img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" />](mailto:cesar.augusto1618m@gmail.com)
